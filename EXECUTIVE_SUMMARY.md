@@ -78,10 +78,14 @@ The difference between scores was small, Random Forest Classifier had an 8.4% in
 
 I decided to reformat the data again, I normalised and then standardised the data this time around. This proved to marginally increase the score. I ran AdaBoost and Gradient boost to see if either of the ensemble methods could improve the score.
 
-Results and Reflections:
+Adaboost, Gradient Boost comparisons:
 
 ![](images/ada_boost.png)
 
 ![](images/grad_boost.png)
 
 ![](images/model_reflection.png)
+
+Results and Reflections:
+
+After viewing these differences I have found that a random forest classifier runs the best - this is likely because of the way it uses random variables to classify each result. 
