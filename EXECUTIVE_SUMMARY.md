@@ -80,6 +80,8 @@ I decided to reformat the data again, I normalised and then standardised the dat
 
 Results and Reflections:
 
-![](images/)
+![](images/ada_boost.png)
 
-![](images/)
+![](images/grad_boost.png)
+
+![](images/model_reflection.png)
